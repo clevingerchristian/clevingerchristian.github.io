@@ -1,0 +1,46 @@
+/*
+CSS for index.html
+Author: Christian Clevinger
+Date: 10/31/16
+*/
+
+body
+{
+	background:url(../Images/parchment.jpg);
+}
+
+header
+{
+	font-size: 40px;
+	text-align: center;
+	margin: 10px auto;
+	
+}
+
+nav
+{
+	font-size: 18px;
+	line-height: 30px;
+}
+
+a:hover
+{
+	color: rgb(255,255,255);
+}
+
+a:active
+{
+	color: rgb(255,0,0);
+}
+
+main h1
+{
+	font-size: 30px;
+	text-align: center;
+}
+
+p
+{
+	font-size: 20px;
+	padding: 0% 25%;
+}

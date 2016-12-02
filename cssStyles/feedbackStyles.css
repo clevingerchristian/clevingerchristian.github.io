@@ -1,0 +1,28 @@
+/*
+CSS for index.html
+Author: Christian Clevinger
+Date: 10/31/16
+*/
+
+textarea
+{
+	width: 50em;
+	height: 25em;
+	display: inline-block;	
+	
+}
+fieldset
+{
+	float: right;
+	padding: 0em 5em;
+	margin: 0em 0em 0em 5em;
+}
+input
+{
+	padding: 0em 3em;
+}
+input
+{
+	display: inline-block;
+	
+}
